@@ -1,10 +1,10 @@
 
-# StudyNotion  (MERN App) [Website Link](https://studynotion-frontend.vercel.ap
+# StudyNotion  (MERN App) [Website Link](https://studynotion-frontend.vercel.ap)
 
 ![Main Page](images/mainpage.png)
 
 ## Project Description
-
+<div align="center">
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
@@ -36,3 +36,4 @@ provide an immersive learning experience to students and a platform for instruct
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
 features and functionalities.
+</div>
