@@ -1,7 +1,7 @@
 
 # StudyNotion  (MERN App) [Website Link](https://studynotion-frontend.vercel.app/)
 
-![Main Page](images/mainpage.png)
+       ![Main Page](images/mainpage.png)
 
 ## Project Description
 
