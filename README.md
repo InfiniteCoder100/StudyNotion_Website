@@ -35,3 +35,10 @@ provide an immersive learning experience to students and a platform for instruct
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
 features and functionalities.
+
+### Architecture Diagram
+
+Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
+platform:
+
+![Architecture](images/architecture.png)
