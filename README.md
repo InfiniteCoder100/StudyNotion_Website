@@ -1,4 +1,4 @@
-
+for run "npm i" then "npm start"
 ## Project Description
 
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
